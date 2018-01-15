@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pyc
+nohup.out
+hall37/source/tywebmgr/logs
+.webroot
+action.log
+hall0/backup
+hall0/bin
+hall0/bireport
+hall0/logs
+hall0/script
+hall0/webroot
+hall0/hotfix
+tyframework.so
+tyframework.so.*
+*.py___jb_old___
